@@ -1,1 +1,1 @@
-# flask-labs
+# Django-labs
